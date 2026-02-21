@@ -62,12 +62,7 @@ pip install -r requirements.txt
 
 03_policy_simulator.ipynb
 
-### Key Results (TBD)
-| Model | AUUC | Qini Coefficient | Top-10% Uplift |
-| :--- | :--- | :--- | :--- |
-| **T-Learner** | TBD | TBD | TBD |
-| **LinearDML** | TBD | TBD | TBD |
-| **CausalForestDML** | TBD | TBD | TBD |
+
 ## Key Results (Filled with Actual Outputs)
 
 ### Uplift Model Performance (Ranking Quality)
