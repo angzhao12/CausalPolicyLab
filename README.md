@@ -140,6 +140,6 @@ To ensure uplift ranking reflects real signal (not noise) and to diagnose bias r
 
 ### Limitations & Roadmap
 
-* **Observational bias: estimates rely on unconfoundedness assumptions; future work includes an RCT-based track (e.g., Criteo).
+* Observational bias: estimates rely on unconfoundedness assumptions; future work includes an RCT-based track (e.g., Criteo).
 
-* **Productionization: refactor notebook logic into modular Python scripts for deployment-ready pipelines.
+* Productionization: refactor notebook logic into modular Python scripts for deployment-ready pipelines.
